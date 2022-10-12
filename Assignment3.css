@@ -1,0 +1,16 @@
+.navbar-head{
+    background-color: rgb(90, 129, 129);
+    color: black;
+    padding: 2px;
+}
+
+.navbar-inverse .navbar-nav li a{
+    color: black;
+    padding-right: 20px;
+}
+
+.navbar-inverse .navbar-brand{
+    color: black;
+    padding-left: 20px;
+}
+
